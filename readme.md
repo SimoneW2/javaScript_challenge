@@ -22,7 +22,8 @@ I began to see significant differences in the both languages especially when it 
 
 ##Take Away Challenge##
 ###My Approach###
-My first attempt at completing both the Airport Challenge and the Take Away challenge  were limited. I decided to use exemplar of the Take Away challenge written in Ruby and then to convert it into JavaScript.
+My first attempt at completing both the Airport Challenge and the Take Away challenge  were limited. I decided to use an exemplar of the Take Away challenge written in Ruby and then to convert it into JavaScript.
+I used the ![take-away challenge exemplar](https://github.com/makersacademy/takeaway-exemplar)
 
 ###Take Away Challenge - User Story###
 As a customer
